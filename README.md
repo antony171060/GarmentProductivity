@@ -1,4 +1,4 @@
-# Garment_Productivity_Descripcion
+# Garment Productivity Descripción
 Predicción de productividad del conjunto de datos de empleados de prendas de vestir
 Resumen: Este conjunto de datos incluye atributos importantes del proceso de fabricación de prendas de vestir y la productividad de los empleados que se recopilaron manualmente y también fueron validados por los expertos de la industria.
 
