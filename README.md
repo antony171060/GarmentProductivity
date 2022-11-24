@@ -30,3 +30,5 @@ Información de atributos:
 12 incentivo: Representa la cantidad de incentivo financiero (en BDT) que habilita o motiva un curso de acción en particular.
 13 idle_time: la cantidad de tiempo en que se interrumpió la producción debido a varias razones
 14 idle_men: la cantidad de trabajadores que estuvieron inactivos debido a la interrupción de la producción
+
+### Link Paper: https://ieeexplore.ieee.org/document/9613559
